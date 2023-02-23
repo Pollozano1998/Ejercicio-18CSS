@@ -1,0 +1,81 @@
+div {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 5px;
+}
+.linea-1{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rojo {
+    background-color: red;
+}
+.verde {
+    background-color:limegreen;
+}
+.azul {
+    background-color: blue;
+}
+.texto{
+    clear: both;
+}
+.linea-2{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rojo-2{
+    background-color: red;
+    flex-basis: 100%;
+}
+.simbolo {
+    display: flex;
+}
+.azul-2{
+    background-color: blue;
+    flex-basis: 100%;
+}
+.magenta{
+    background-color:magenta;
+    flex-basis: 100%;
+}
+.linea-3{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.azul-3{
+    background-color: blue;
+    flex-basis: 100%;
+}
+.verde-2{
+    background-color: limegreen;
+    flex-basis: 100%;
+}
+.cian {
+    background-color: cyan;
+    flex-basis: 100%;
+}
+.linea-4{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.verde-3{
+    background-color: limegreen;
+    flex-basis: 100%;
+}
+.rojo-3{
+    background-color: red;
+    flex-basis: 100%;
+}
+.amarillo{
+    background-color: yellow;
+    flex-basis: 100%;
+}
